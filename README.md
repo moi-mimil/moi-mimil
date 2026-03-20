@@ -4,7 +4,7 @@ I **<u>DON'T</u> use Arch**, btw.
 But I *do* know how to break things… sometimes on purpose.  
 
 <div align="center">
-  <img src="https://img.randme.me">
+  ![Random Meme](https://img.randme.me)
 </div>
 
 ---
