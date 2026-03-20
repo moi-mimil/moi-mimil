@@ -1,2 +1,2 @@
 ## hey i guess
-i DON'T use arch btw
+i <i>DON'T</i> use arch btw
