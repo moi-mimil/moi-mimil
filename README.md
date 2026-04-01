@@ -19,7 +19,7 @@ But I *do* know how to break things… sometimes on purpose.
 
 ## 💻 Stuff I Mess With
 
-- **Languages:** Python, JavaScript, sometimes C# (because why not).  
+- **Languages:** Python, JavaScript (because why not).  
 - **Projects:** Tiny games, random scripts, dumb experiments.  
 - **Other:** Memes, music, procrastination.  
 
